@@ -3,6 +3,7 @@
 
 
 Ссылка на Задание 1: https://github.com/Nail-Salimov/CloudTechnology
+
 Ссылка на Задание 2: https://github.com/Nail-Salimov/CloudTechnology2
 
 ### Задание 3
